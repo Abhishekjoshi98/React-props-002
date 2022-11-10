@@ -10,7 +10,7 @@ import Img4 from './Images/img2.jpg';
 function App() {
   return (
     <div className="App">
-      <Card movie="Ironman" yearAndAuthor="2008,ANKURVERMA" images={Img1} />
+      <Card movie="Ironman" yearAndAuthor="2000,Author" images={Img1} />
       <Card
         movie="Harry Porter"
         yearAndAuthor="2002,Author"
@@ -23,7 +23,7 @@ function App() {
       />
           <Card
         movie="Iron Man : Age of Ultron"
-        yearAndAuthor="2004,Author"
+        yearAndAuthor="2018,Author"
         images={Img2}
       />
       
