@@ -22,7 +22,7 @@ import { FaComment, FaHeart, FaShare } from "react-icons/fa";
                   fontSize: "12px",
                 }}
               >
-                120 min
+                120 minutes
               </span>
               <span style={{ margin: "0.2rem" }}>
                 Action,Journey,experience
@@ -32,6 +32,8 @@ import { FaComment, FaHeart, FaShare } from "react-icons/fa";
         </div>
         <div className="lower">
           <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, eos
+            blanditiis? Reprehenderit tenetur rem in incidunt debitis
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, eos
             blanditiis? Reprehenderit tenetur rem in incidunt debitis
           </p>
