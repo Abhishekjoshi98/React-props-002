@@ -14,17 +14,17 @@ function App() {
       <Card
         movie="Harry Porter"
         yearAndAuthor="2002,Author"
-        images={Img4}
+        images={Img3}
       />
           <Card
         movie="Harry Porter : Animation"
         yearAndAuthor="2004,Author"
-        images={Img3}
+        images={Img2}
       />
           <Card
         movie="Iron Man : Age of Ultron"
         yearAndAuthor="2018,Author"
-        images={Img2}
+        images={Img4}
       />
       
     </div>
