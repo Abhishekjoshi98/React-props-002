@@ -11,7 +11,7 @@ function App() {
       <Card movie="IRONMAN" yearAndAuthor="2008,ANKURVERMA" images={Img} />
       <Card
         movie="HARRY POTTER"
-        yearAndAuthor="2000,ANKURVERMA"
+        yearAndAuthor="2000,Author"
         images={Img2}
       />
       
